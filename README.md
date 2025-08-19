@@ -1,5 +1,5 @@
 # 💫 About Me:
- To apply my expertise in Java, Spring Boot, and AWS, leveraging a 7.92 CGPA, to drive innovation as a Software Developer. Proficient in object-oriented programming and API integration, I aim to contribute to cutting-edge projects while utilizing credentials in Oracle and AWS. Fluent in English, Hindi, and Marathi, I aspire to excel in a dynamic and collaborative environment.
+ Detail-oriented and results-driven Data Analyst with hands-on experience in data visualization, statistical analysis, and business intelligence reporting. Proficient in Python, Power BI, Microsoft Excel, and SQL, with a strong ability to turn complex datasets into actionable business insights. Skilled in dashboard development, KPI tracking, and process automation. Passionate about solving real-world problems through data and seeking an entry-level Data Analyst role to drive data-backed business decisions.
 
 
 ## 🌐 Socials:
